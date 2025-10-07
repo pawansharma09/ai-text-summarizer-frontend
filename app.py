@@ -3,7 +3,7 @@ import requests
 import time
 
 # API Configuration
-API_URL = "https://your-render-api-url.onrender.com/summarize"  # Replace with your Render URL
+API_URL = "https://ai-text-summarizer-backend-api.onrender.com/summarize"  # Replace with your Render URL
 
 # Page config
 st.set_page_config(
@@ -102,4 +102,5 @@ st.markdown("---")
 st.markdown(
     "Built with ❤️ using [DistilBART](https://huggingface.co/sshleifer/distilbart-cnn-12-6) | "
     "Deployed on [Render](https://render.com) & [Streamlit Cloud](https://streamlit.io/cloud)"
+
 )
