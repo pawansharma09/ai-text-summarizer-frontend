@@ -1,6 +1,3 @@
-
-### Streamlit Frontend
-
 # AI Text Summarizer - Streamlit Frontend
 
 Beautiful Streamlit interface for the text summarization API.
